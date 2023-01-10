@@ -51,6 +51,7 @@ nav ul li a:active{
 }
 #check:checked ~ ul {
     left: 0px;
+    position:sticky;
 }
 
 .website-banner img{
